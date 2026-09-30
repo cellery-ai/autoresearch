@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright 2026 Andrej Karpathy
 """
 Autoresearch pretraining script (MLX). Single-device, single-file.
 Apple Silicon MLX port of the original CUDA autoresearch.

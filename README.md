@@ -236,4 +236,4 @@ I think these would be the reasonable hyperparameters to play with. Ask your fav
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE.md). Copyright 2026 Andrej Karpathy.

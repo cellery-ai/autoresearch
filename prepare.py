@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright 2026 Andrej Karpathy
 """
 One-time data preparation for autoresearch experiments (MLX version).
 Downloads data shards and trains a BPE tokenizer.
